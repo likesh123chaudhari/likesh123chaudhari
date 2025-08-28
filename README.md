@@ -7,9 +7,9 @@
 
 🙌 Open Source Projects are something I'd like to work on.
 
-💬 Ask me about Frontend
+💬 Ask me about Software Developer
 
-✨ Interested in exploring the possibilities of "Frontend Developer"
+✨ Interested in exploring the possibilities of "Software Developer"
 
 📫 How to reach me likeshchaudhari1234@gmail.com
 
