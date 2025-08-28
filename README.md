@@ -1,7 +1,16 @@
-                                 Hello 👋 Hi, I’m Likesh Chaudhari
+                                    Hello 👋 Hi, I’m Likesh Chaudhari
 
-<!---
-likesh123chaudhari/likesh123chaudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👨‍💻 All of my projects are available at (https://github.com/likesh123chaudhari)
+
+📝 I regularly write code on Github
+
+🙌 Open Source Projects are something I'd like to work on.
+
+💬 Ask me about Frontend
+
+✨ Interested in exploring the possibilities of "Frontend Developer"
+
+📫 How to reach me likeshchaudhari1234@gmail.com
+
 
